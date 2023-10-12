@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.app-list {
+  height: 120px;
+  width: 110px;
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  padding: 20px;
+  border-radius: 7px;
+  margin-left: 12px;
+  margin-bottom: 12px;
+}
+
+.brand-logo {
+  height: 50px;
+  width: 50px;
+}
+.brand-name {
+  text-align: center;
+  font-family: 'bree serif';
+  font-weight: 500;
+  font-size: 14px;
+  width: 500px;
+  color: #1e293b;
+}
